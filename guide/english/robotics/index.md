@@ -40,4 +40,5 @@ Putting together, these resources are good enough to kick start your journey wit
 [Sensors (electronicshub.org)](https://www.electronicshub.org/different-types-sensors/)
 
 [Actuator (Wikipedia.org)](https://en.wikipedia.org/wiki/Actuator)
+[Basic Electronics for Robotics (instructables.com)] (https://www.instructables.com/lesson/Basic-Electronics-Skills-for-Robotics/)
 
